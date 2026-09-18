@@ -1,0 +1,19 @@
+{
+  "name": "sia",
+  "version": "1.0.0",
+  "description": "midterm",
+  "homepage": "https://github.com/Kuze-kun12/SIA-MIDTERM#readme",
+  "bugs": {
+    "url": "https://github.com/Kuze-kun12/SIA-MIDTERM/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kuze-kun12/SIA-MIDTERM.git"
+  },
+  "author": "GROUP 4 SECTION B",
+  "type": "common.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  }
+}
