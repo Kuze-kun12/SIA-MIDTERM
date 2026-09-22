@@ -11,14 +11,9 @@
     "url": "git+https://github.com/Kuze-kun12/SIA-MIDTERM.git"
   },
   "author": "GROUP 4 SECTION B",
-  "type": "commonjs",
+  "type": "common.js",
   "main": "index.js",
   "scripts": {
-    "test": "test.js",
-    "dev": "node index.js"
-
-  },
-  "dependencies": {
-    "express": "^5.2.1"
+    "test": "test.js"
   }
 }
